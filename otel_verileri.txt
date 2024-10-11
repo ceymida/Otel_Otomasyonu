@@ -1,0 +1,2 @@
+100,tek,1200,false
+101,cift,4000,false
